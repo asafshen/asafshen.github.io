@@ -3,9 +3,8 @@ layout: default
 title: "Family Time"
 ---
 
-<div class="container">
-    <h1>Family Time</h1>
-    <iframe src="https://giphy.com/embed/ms3yqSf67KQjnXm6kN" width="480" height="480" style="" frameBorder="0"
-    class="giphy-embed" allowFullScreen></iframe>
-    <a href="index.html" class="back-button">Back</a>
+<div class="container" style="text-align: center; padding: 20px;">
+    <h3>Hello to 👩‍❤️‍💋‍👨 Raya & Lev 🥰</h3>
+    <img src="icons/raya_lev.jpg" alt="Family Time" style="width: 100%; height: auto;">
+    <a href="index.html" class="back-button" style="display: inline-block; margin-top: 20px; padding: 15px 20px; background-color: #333; color: #fff; text-decoration: none; border-radius: 5px; font-size: 16px;">Waiting for the Next Bit 🤰</a>
 </div>
